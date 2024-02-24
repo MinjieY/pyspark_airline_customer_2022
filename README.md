@@ -26,6 +26,6 @@
  pyspark_paper:课程论文/报告
 ##### <a href="https://github.com/MinjieY/pyspark_airline_customer_2022/pysparkProject_work/_fina_paper/pyspark_paper.pdf" target="_blank">课程论文/报告pdf预览</a>
 
-##### 基于LRFMC模型的航空公司客户K-means聚类分析<br>
+#### 基于LRFMC模型的航空公司客户K-means聚类分析<br>
 **摘要**：区分度高的客户分类的结果是企业整合营销资源、调整营销策略的重要依据。本文根据LRFMC模型提取了航空公司客户的部分数据，利用K-means聚类方法对航空公司的客户进行分类，得到出五个不同的客户群体，对客户特征进行划分总结，给出了对应营销建议。以期对该航空公司向不同价值的客户类别提供个性化服务，制定针对性的营销策略。<br>
 **关键词**：旅客分类；数据挖掘；LRFMC模型；K-means聚类；策略分析；</a>
