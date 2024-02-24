@@ -11,14 +11,16 @@
 的部分数据，基于大数据集的特点，利用 K-means 聚类方法，以均方差确定指标，划分航空公司不同类别的客户
 群体，最后调用plot、seaborn等进行可视化，提出针对性的营销策略。
 <br>
-### -air_package
-### |- Python源文件<br>
-  |-[1]. Pre_analyse.py:源数据文件探索性分析、源数据分析可视化；<br>
-  |-[2]. K_means.py:kmeans聚类求解，聚类结果可视化；<br>
-  |-[3]. Pre_resolve:数据清洗，数据预处理，聚类数探索。<br>
-  #### |- data 文件
-  |-[1] type_result.csv：客户聚类结果及对应特征文件；<br>
-  |-[2] data_LRFMC_standard.csv：客户特征标准化dataframe；<br>
-  |-[3] data_LRFMC.csv：客户特征dataframe；<br>
-  |-[4] type_des.csv：分类结果数据描述；<br>
-  |-[5] des_air_data.csv :源数据描述 <br>
+### /air_package
+### Python源文件<br>
+[1]. Pre_analyse.py:源数据文件探索性分析、源数据分析可视化；<br>
+[2]. K_means.py:kmeans聚类求解，聚类结果可视化；<br>
+[3]. Pre_resolve:数据清洗，数据预处理，聚类数探索。<br>
+  ####  /data 文件
+[1] type_result.csv：客户聚类结果及对应特征文件；<br>
+[2] data_LRFMC_standard.csv：客户特征标准化dataframe；<br>
+[3] data_LRFMC.csv：客户特征dataframe；<br>
+[4] type_des.csv：分类结果数据描述；<br>
+[5] des_air_data.csv :源数据描述 <br>
+ #### /_fina_paper
+ pyspark_paper:课程论文/报告
