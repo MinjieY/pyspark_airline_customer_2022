@@ -1,6 +1,6 @@
 # pyspark_airline_customer_2022
 big data
-• 编程环境:pycharm+miniconda+pyspark(spark-3.3.1,python3.9);
+## 编程环境:pycharm+miniconda+pyspark(spark-3.3.1,python3.9);<br>
 • 简介: 使用pyspark对获取到的航空公司原始数据进行预处理，读取csv文件以后主要用
 到numpy和dataframe对数据表进行类型变换，loc、query等方法进行行和列的条件筛
 选，选用合适的方法对原始数据进行初步处理（去除空值，重复数据，均值填充，异常
